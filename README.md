@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 How to reach me:
-<!-- <a href="mailto:pro.dongvk@gmail.com" target="_blank" rel="noreferrer"> -->
-<a href="mailto:pro.dongvk@gmail.com" target="_blank" rel="noreferrer">![image](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)![image](https://img.shields.io/badge/-pro.dongvk%40gmail.com-grey?style=flat-square)</a>
-<br/>
 </br>
 
 [<image src="./linkedin_logo.png" style="height: 50px; width: 50px;" alt="logo_linkedin"/>](https://www.linkedin.com/in/viet-khoi-jean-dong)
